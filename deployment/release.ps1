@@ -1,0 +1,1 @@
+az storage blob upload-batch -s . -d \$web --account-name akitips
