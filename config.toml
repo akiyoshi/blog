@@ -1,0 +1,17 @@
+baseurl = "https://aki.tips/"
+title = "Aki.Tips"
+author = "Akiyoshi Tsuchida"
+copyright = "Akiyoshi Tsuchida"
+canonifyurls = true
+paginate = 3
+theme = "silhouette-hugo"
+
+pygmentsUseClasses=true
+
+#disqusShortname = ""
+googleAnalytics = "UA-131772017-2"
+
+[Params]
+author = "Akiyoshi Tsuchida"
+introDescription = "都内でパブリッククラウドいじってる。"
+siteIntroDescription = "パブリッククラウドメインのメモ書き"
