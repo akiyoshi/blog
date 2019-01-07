@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Clouday</title>
-    <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on Clouday</description>
+    <title>Categories on Aki.Tips</title>
+    <link>https://cloud.aki.tips/categories/</link>
+    <description>Recent content in Categories on Aki.Tips</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2019, Akiyoshi Tsuchida</copyright>
+    <copyright>Akiyoshi Tsuchida</copyright>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cloud.aki.tips/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

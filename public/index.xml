@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clouday</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Clouday</description>
+    <title>Aki.Tips</title>
+    <link>https://cloud.aki.tips/</link>
+    <description>Recent content on Aki.Tips</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2019, Akiyoshi Tsuchida</copyright>
+    <copyright>Akiyoshi Tsuchida</copyright>
+    <lastBuildDate>Thu, 04 Jan 2018 20:34:40 +0900</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cloud.aki.tips/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://cloud.aki.tips/about/</link>
+      <pubDate>Thu, 04 Jan 2018 20:34:40 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/about/</guid>
+      <description>Akiyoshi Tsuchida / 土田 晃令
+岐阜県出身で東京都内のSIer勤務。
+現在はパブリッククラウド(AzuerとAWS、少しGCP)のプロジェクト中心。
+このブログは、クラウド業界の日々のアップデートをキャッチアップしたり、検証内容を書いたりしておくためのメモ置き場です(予定)。
+内容は全てGitHubで管理していますので、間違い等があったら、プルリク等をいただけると泣いて喜びます。 GitHubリポジトリ
+他に何かございましたら、以下の連絡先よりお願いします。
+ Twitter Linkedin  </description>
+    </item>
     
   </channel>
 </rss>
