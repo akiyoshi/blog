@@ -183,9 +183,9 @@ footer hr {
 
 .feature-image-text {
     max-width: 760px;
-
     margin-right: auto;
     margin-left: auto;
+    background-color: rgba(0,0,0,0.5)
 }
 
 .white-shadow-text {
