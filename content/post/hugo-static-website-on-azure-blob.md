@@ -1,5 +1,5 @@
 ---
-title: "Hugo Static Website on Azure Blob"
+title: "Hugoで生成した静的サイトをAzure Storage Blobでホスティングする手順"
 date: 2019-01-06T19:27:24+09:00
 draft: true
 categories:
@@ -9,7 +9,8 @@ categories:
 # - featured
 ---
 
-**Insert Lead paragraph here.**
+Hugoで生成した静的サイトをAzure Storage Blobでホスティングする手順
 
 <!--more-->
 
+Hugoで生成した静的サイトをAzure Storage Blobでホスティングする手順
