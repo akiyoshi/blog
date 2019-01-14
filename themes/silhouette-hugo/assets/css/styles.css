@@ -185,6 +185,9 @@ footer hr {
     max-width: 760px;
     margin-right: auto;
     margin-left: auto;
+}
+
+.feature-image-background{
     background-color: rgba(0,0,0,0.5)
 }
 

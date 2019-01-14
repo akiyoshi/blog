@@ -6,10 +6,20 @@
     <description>Recent content on Aki.Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Akiyoshi Tsuchida</copyright>
-    <lastBuildDate>Thu, 04 Jan 2018 20:34:40 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 19:30:32 +0900</lastBuildDate>
     
 	<atom:link href="https://cloud.aki.tips/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugoで生成した静的サイトをAzure Storage Blobでホスティングする手順</title>
+      <link>https://cloud.aki.tips/post/how-to-host-hugo-on-azure-blob-storage/</link>
+      <pubDate>Sun, 13 Jan 2019 19:30:32 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/post/how-to-host-hugo-on-azure-blob-storage/</guid>
+      <description>&lt;p&gt;先月、&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/static-websites-on-azure-storage-now-generally-available/&#34;&gt;Azure Blob Storageでの静的サイトのホスティングがGAしました&lt;/a&gt;。
+今回は、これを使って、&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;で生成したサイトをホスティングする手順をまとめます。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -20,8 +30,10 @@
       <description>Akiyoshi Tsuchida / 土田 晃令
 岐阜県出身で東京都内のSIer勤務。
 現在はパブリッククラウド(AzuerとAWS、少しGCP)のプロジェクト中心。
-このブログは、クラウド業界の日々のアップデートをキャッチアップしたり、検証内容を書いたりしておくためのメモ置き場です(予定)。
-内容は全てGitHubで管理していますので、間違い等があったら、プルリク等をいただけると泣いて喜びます。 GitHubリポジトリ
+このブログは、クラウド業界の日々のアップデートをキャッチアップしたり、検証内容を書いたりしておくためのメモ置き場です。
+公式ドキュメントへのポインタくらいの内容を目指します。
+内容は全てGitHubで管理していますので、プルリク等をいただけると泣いて喜びます。
+GitHubリポジトリ
 他に何かございましたら、以下の連絡先よりお願いします。
  Twitter Linkedin  </description>
     </item>

@@ -3,23 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cloud.aki.tips/post/how-to-host-hugo-on-azure-blob-storage/</loc>
+    <lastmod>2019-01-13T19:30:32+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cloud.aki.tips/about/</loc>
     <lastmod>2018-01-04T20:34:40+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://cloud.aki.tips/</loc>
-    <lastmod>2018-01-04T20:34:40+09:00</lastmod>
+    <lastmod>2019-01-13T19:30:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloud.aki.tips/categories/azure/</loc>
+    <lastmod>2019-01-13T19:30:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloud.aki.tips/tags/azure-blob-storage/</loc>
+    <lastmod>2019-01-13T19:30:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cloud.aki.tips/categories/</loc>
+    <lastmod>2019-01-13T19:30:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloud.aki.tips/post/</loc>
+    <lastmod>2019-01-13T19:30:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cloud.aki.tips/tags/</loc>
+    <lastmod>2019-01-13T19:30:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   

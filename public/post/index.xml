@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aki.Tips</title>
+    <link>https://cloud.aki.tips/post/</link>
+    <description>Recent content in Posts on Aki.Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Akiyoshi Tsuchida</copyright>
+    <lastBuildDate>Sun, 13 Jan 2019 19:30:32 +0900</lastBuildDate>
+    
+	<atom:link href="https://cloud.aki.tips/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugoで生成した静的サイトをAzure Storage Blobでホスティングする手順</title>
+      <link>https://cloud.aki.tips/post/how-to-host-hugo-on-azure-blob-storage/</link>
+      <pubDate>Sun, 13 Jan 2019 19:30:32 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/post/how-to-host-hugo-on-azure-blob-storage/</guid>
+      <description>&lt;p&gt;先月、&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/static-websites-on-azure-storage-now-generally-available/&#34;&gt;Azure Blob Storageでの静的サイトのホスティングがGAしました&lt;/a&gt;。
+今回は、これを使って、&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;で生成したサイトをホスティングする手順をまとめます。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
