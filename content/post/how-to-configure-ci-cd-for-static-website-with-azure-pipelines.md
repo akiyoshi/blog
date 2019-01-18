@@ -1,5 +1,5 @@
 ---
-title: "Azure DevOpsで静的サイトのCI/CDを実現する手順"
+title: "Azure Pipelinesで静的サイトのCI/CDを実現する手順"
 date: 2019-01-15T19:30:32+09:00
 draft: true
 categories:
