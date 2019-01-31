@@ -6,7 +6,7 @@ categories:
   - Event
 ---
 
-もくもく会を開催・運営する中で気づいたことのメモ
+[Microsoft Learnもくもく会](https://mslearn.connpass.com/)を開催・運営する中で気づいたことのメモ
 
 随時更新
 
