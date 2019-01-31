@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Devops on Aki.Tips</title>
+    <link>https://cloud.aki.tips/tags/azure-devops/</link>
+    <description>Recent content in Azure Devops on Aki.Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Akiyoshi Tsuchida</copyright>
+    <lastBuildDate>Sun, 20 Jan 2019 15:49:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://cloud.aki.tips/tags/azure-devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Azure Devops Tokyo 2nd impactに参加しました。</title>
+      <link>https://cloud.aki.tips/post/azure-devops-tokyo-2nd/</link>
+      <pubDate>Sun, 20 Jan 2019 15:49:07 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/post/azure-devops-tokyo-2nd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jazug.connpass.com/event/106316/&#34;&gt;Azure DevOps Tokyo 2nd impact&lt;/a&gt;に参加してLTしました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content on Aki.Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Akiyoshi Tsuchida</copyright>
-    <lastBuildDate>Sun, 13 Jan 2019 19:30:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 15:49:07 +0900</lastBuildDate>
     
 	<atom:link href="https://cloud.aki.tips/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Devops Tokyo 2nd impactに参加しました。</title>
+      <link>https://cloud.aki.tips/post/azure-devops-tokyo-2nd/</link>
+      <pubDate>Sun, 20 Jan 2019 15:49:07 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/post/azure-devops-tokyo-2nd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jazug.connpass.com/event/106316/&#34;&gt;Azure DevOps Tokyo 2nd impact&lt;/a&gt;に参加してLTしました。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hugoで生成した静的サイトをAzure Storage Blobでホスティングする手順</title>
@@ -24,7 +33,7 @@
     <item>
       <title>About</title>
       <link>https://cloud.aki.tips/about/</link>
-      <pubDate>Thu, 04 Jan 2018 20:34:40 +0900</pubDate>
+      <pubDate>Fri, 04 Jan 2019 20:34:40 +0900</pubDate>
       
       <guid>https://cloud.aki.tips/about/</guid>
       <description>Akiyoshi Tsuchida / 土田 晃令
