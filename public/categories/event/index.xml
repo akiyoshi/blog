@@ -6,10 +6,37 @@
     <description>Recent content in Event on Aki.Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Akiyoshi Tsuchida</copyright>
-    <lastBuildDate>Sun, 20 Jan 2019 15:49:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 Feb 2019 19:21:54 +0900</lastBuildDate>
+    <atom:link href="/categories/event/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://cloud.aki.tips/categories/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第30回Azureもくもく会に参加しました。</title>
+      <link>https://cloud.aki.tips/post/azure-moku2-30th/</link>
+      <pubDate>Sun, 10 Feb 2019 19:21:54 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/post/azure-moku2-30th/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://azure-moku2.connpass.com/event/117600/&#34;&gt;第30回Auzreもくもく会 @ 品川&lt;/a&gt;に参加して、LTしました。&lt;/p&gt;</description>
+    </item>
     
+    <item>
+      <title>もくもく会を支える技術</title>
+      <link>https://cloud.aki.tips/post/how-to-manage-study-group/</link>
+      <pubDate>Thu, 31 Jan 2019 10:25:51 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/post/how-to-manage-study-group/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mslearn.connpass.com/&#34;&gt;Microsoft Learnもくもく会&lt;/a&gt;を開催・運営する中で気づいたことのメモ&lt;/p&gt;
+
+&lt;p&gt;随時更新&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>第一回Microsoft Learnもくもく会を開催しました</title>
+      <link>https://cloud.aki.tips/post/mslearn-study-group-1/</link>
+      <pubDate>Sun, 27 Jan 2019 20:16:27 +0900</pubDate>
+      
+      <guid>https://cloud.aki.tips/post/mslearn-study-group-1/</guid>
+      <description>&lt;p&gt;2019年1月27日に&lt;a href=&#34;https://mslearn.connpass.com/event/115666/&#34;&gt;第一回Microsoft Learnもくもく会&lt;/a&gt;を開催しました。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Azure Devops Tokyo 2nd impactに参加しました。</title>

@@ -35,8 +35,8 @@
         <link rel="stylesheet" href="https://cloud.aki.tips/css/bundle.min.5c27ae85c2b4ca8647b35504618b62f6a87740b8f1e1b10d0f80c63ec11a6a07.css" integrity="sha256-XCeuhcK0yoZHs1UEYYti9qh3QLjx4bEND4DGPsEaagc="  />
 
         
-    <link rel="me" type="text/html" href="https://twitter.com/sombradelrio"/> 
-<link rel="me" type="text/html" href="https://www.linkedin.com/pub/matt-button/7/553/222"/> 
+    <link rel="me" type="text/html" href="https://twitter.com/sombradelrio"/>
+<link rel="me" type="text/html" href="https://www.linkedin.com/pub/matt-button/7/553/222"/>
 <link rel="me" type="text/html" href="https://www.instagram.com/sombradelrio/" />
 <link rel="icon" type="image/png" href="https://cloud.aki.tips/images/favicon-16x16.png" sizes="16x16">
 <link rel="icon" type="image/png" href="https://cloud.aki.tips/images/favicon-32x32.png" sizes="32x32">
@@ -46,6 +46,7 @@
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="Akiyoshi Tsuchida" />
 <meta name="copyright" content="Akiyoshi Tsuchida" />
+<meta name="og:image" content="https://cloud.aki.tips/" />
 
 
 <meta name="description" content="先月、Azure Blob Storageでの静的サイトのホスティングがGAしました。 今回は、これを使って、Hugoで生成したサイトをホスティングする手順をまとめます。
@@ -293,6 +294,12 @@ az storage blob upload-batch -s &lt;SOURCE_PATH&gt; -d \$web --account-name &lt;
     <h2 class="mt-4">最近の投稿</h2>
     <nav class="nav flex-column">
         
+        <a href="https://cloud.aki.tips/post/azure-moku2-30th/" class="nav-link">第30回Azureもくもく会に参加しました。</a>
+        
+        <a href="https://cloud.aki.tips/post/how-to-manage-study-group/" class="nav-link">もくもく会を支える技術</a>
+        
+        <a href="https://cloud.aki.tips/post/mslearn-study-group-1/" class="nav-link">第一回Microsoft Learnもくもく会を開催しました</a>
+        
         <a href="https://cloud.aki.tips/post/azure-devops-tokyo-2nd/" class="nav-link">Azure Devops Tokyo 2nd impactに参加しました。</a>
         
         <a href="https://cloud.aki.tips/post/how-to-host-hugo-on-azure-blob-storage/" class="nav-link">Hugoで生成した静的サイトをAzure Storage Blobでホスティングする手順</a>
@@ -302,13 +309,13 @@ az storage blob upload-batch -s &lt;SOURCE_PATH&gt; -d \$web --account-name &lt;
     <h2 class="mt-4 text-capitalize">categories</h2>
     <nav class="nav flex-column">
         
-        <a href='https://cloud.aki.tips/categories/azure/' class="nav-link">
-        azure
-        <span class="badge badge-pill badge-secondary">1</span>
-        </a>
-        
         <a href='https://cloud.aki.tips/categories/event/' class="nav-link">
         event
+        <span class="badge badge-pill badge-secondary">4</span>
+        </a>
+        
+        <a href='https://cloud.aki.tips/categories/azure/' class="nav-link">
+        azure
         <span class="badge badge-pill badge-secondary">1</span>
         </a>
         
@@ -324,6 +331,11 @@ az storage blob upload-batch -s &lt;SOURCE_PATH&gt; -d \$web --account-name &lt;
         
         <a href='https://cloud.aki.tips/tags/azure-devops/' class="nav-link">
         azure-devops
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://cloud.aki.tips/tags/microsoft-learn/' class="nav-link">
+        microsoft-learn
         <span class="badge badge-pill badge-secondary">1</span>
         </a>
         

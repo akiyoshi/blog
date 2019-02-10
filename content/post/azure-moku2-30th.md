@@ -10,7 +10,7 @@ categories:
 
 <!--more-->
 
-{{< slideshare id="i1DMfVKU5qPf1u" >}}
+
 
 
 今回もいい感じにもくもくできて満足。

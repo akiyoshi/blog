@@ -7,9 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Akiyoshi Tsuchida</copyright>
     <lastBuildDate>Sun, 20 Jan 2019 15:49:07 +0900</lastBuildDate>
-    
-	<atom:link href="https://cloud.aki.tips/tags/azure-devops/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/azure-devops/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Azure Devops Tokyo 2nd impactに参加しました。</title>

@@ -7,9 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Akiyoshi Tsuchida</copyright>
     <lastBuildDate>Sun, 13 Jan 2019 19:30:32 +0900</lastBuildDate>
-    
-	<atom:link href="https://cloud.aki.tips/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Azure</title>
@@ -23,7 +21,7 @@
     <item>
       <title>Event</title>
       <link>https://cloud.aki.tips/categories/event/</link>
-      <pubDate>Sun, 20 Jan 2019 15:49:07 +0900</pubDate>
+      <pubDate>Sun, 10 Feb 2019 19:21:54 +0900</pubDate>
       
       <guid>https://cloud.aki.tips/categories/event/</guid>
       <description></description>
